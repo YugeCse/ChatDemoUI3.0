@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Mrper\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-ecd94403dce9a5675140ec49c44503ffeba4bf01.jar" />
+    </item>
+    <item
+        jar="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.01\easeUI\unspecified\jars\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\locSDK_3.3-1b63303dd567f0125a044673ce40b629afb8a356.jar" />
+    </item>
+    <item
+        jar="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.01\easeUI\unspecified\jars\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f0d8e4a84fad131bc291c3c4850afcaa8ba0b299">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\google-play-services-81fdb3b6dbef76ec575b92e57e9a1fea61e76786.jar" />
+    </item>
+    <item
+        jar="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4-29161988e40e4b183b3c75825f849972d3e0636f.jar" />
+    </item>
+    <item
+        jar="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.01\easeUI\unspecified\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\org.apache.http.legacy-4c1e81c4555f92cf23f8ea81b879ca54471e0ff4.jar" />
+    </item>
+    <item
+        jar="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\classes-1852402122939297718a0eec17c8a48bac794cec.jar" />
+    </item>
+    <item
+        jar="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.01\easeUI\unspecified\jars\libs\easemobchat_2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="272e12284f694ce18895e715ca593cba0bca8bfc">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\easemobchat_2.2.3-c3c6f7783f9df70f3f825010cb04c590433a6f7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.01\easeUI\unspecified\jars\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\picasso-2.4.0-063f9abf60ba8f6cad63d491cf56d91e1fa89ca3.jar" />
+    </item>
+    <item
+        jar="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-4bd332fab8d33cbe507055d168461b9516935261.jar" />
+    </item>
+    <item
+        jar="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\libs\Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\Parse-1.9.4-eb543c0a95c565e7bb3847beb5d9874cb7c942c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.01\easeUI\unspecified\jars\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0-ee1515b2e0ae27b51f6dec138269f2f54bca992e.jar" />
+    </item>
+    <item
+        jar="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.01\easeUI\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ad8576f0849aa442d12999689ed4b643425662c6">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\classes-d395502e2338101e328f862087a966265a2d0ebd.jar" />
+    </item>
+    <item
+        jar="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\bj\Desktop\examples\ChatDemoUI3.01\easeUIDemo\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-8c81015843f57a1682d505205274aca968f3c676.jar" />
+    </item>
+
+</items>
